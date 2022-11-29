@@ -1,0 +1,40 @@
+body{
+	background-image: url("");
+	background-repeat: no-repeat;
+	background-size: 100%;
+	background-color: black;
+}
+ul{
+	list-style-type: none;
+	padding: 0px;
+	margin: 0px;
+	overflow: hidden;
+    background-color: transparent;
+}
+li a{
+	float: right;
+	display: block;
+	color: whitesmoke;
+	padding: 10px 15px;
+	text-align: center;
+	text-decoration: none;
+	border-right: 1px solid black;
+	min-width: 60px;
+	background-color: transparent;
+}
+li a:hover{
+	background-color: red;
+}
+
+h4{
+	text-align: center;
+	color: whitesmoke;
+	padding: 10px 15px;
+	background-color: ;
+}
+p{
+	text-align: center;
+	color: whitesmoke;
+	padding: 10px 15px;
+	background-color: ;
+}
